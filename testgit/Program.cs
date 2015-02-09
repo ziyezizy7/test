@@ -14,6 +14,7 @@ namespace testgit
         /// <param name="args"></param>
         static void Main(string[] args)
         {
+            Console.WriteLine("testGit");
         }
     }
 }
