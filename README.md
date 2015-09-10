@@ -5,7 +5,7 @@
 #### Required Software
 
 
-* <b>Microsoft Visual Studio 2012
+* <b>Microsoft Visual Studio 2012</b>
  
     You can download Visual Studio Ultimate 2012 Trial (30 days) from below website
   
