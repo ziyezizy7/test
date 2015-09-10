@@ -1,6 +1,6 @@
 #### Required Software
 
- __Microsoft Visual Studio 2012__
+    __Microsoft Visual Studio 2012__
  
     You can download Visual Studio Ultimate 2012 Trial (30 days) from below website
   
@@ -11,7 +11,7 @@
 
     [http://www.microsoft.com/en-us/download/confirmation.aspx?id=39305](http://www.microsoft.com/en-us/download/confirmation.aspx?id=39305)
 
- __Spec Explorer (build 3.5.3146.0 or later)__
+    __Spec Explorer (build 3.5.3146.0 or later)__
 
     You can download Spec Explorer from below website
    
