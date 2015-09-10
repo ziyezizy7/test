@@ -7,7 +7,7 @@
 * __Microsoft Visual Studio 2012__
  
     You can download Visual Studio Ultimate 2012 Trial (30 days) from below website
-
+    You can download Visual Studio 2012 Update 4 or later from below website
 
 
 
