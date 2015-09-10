@@ -11,12 +11,4 @@
 
     [http://www.microsoft.com/en-us/download/confirmation.aspx?id=39305](http://www.microsoft.com/en-us/download/confirmation.aspx?id=39305)
     
-* __Spec Explorer (build 3.5.3146.0 or later)__
-
-    You can download Spec Explorer from below website
-   
-    [http://visualstudiogallery.msdn.microsoft.com/271d0904-f178-4ce9-956b-d9bfa4902745/](http://visualstudiogallery.msdn.microsoft.com/271d0904-f178-4ce9-956b-d9bfa4902745/)
-
-* __[Protocol Test Framework](https://github.com/microsoft/protocoltestframework)__
-
-	You can use a released package or build a installer package of Protocol Test Framework from source code.
+* __Windows PowerShell 3.0__
