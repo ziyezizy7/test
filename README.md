@@ -8,6 +8,6 @@
  
     You can download Visual Studio Ultimate 2012 Trial (30 days) from below website
 
-    [http://www.microsoft.com/en-us/download/details.aspx?id=30678](http://www.microsoft.com/en-us/download/details.aspx?id=30678)
+
 
 
