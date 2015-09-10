@@ -2,7 +2,7 @@
  
  All of the following software must be installed on the driver computer before the installation of this test suite. 
  
-#### Required Software
+__Required Software__
 
 * __Microsoft Visual Studio 2012__
  
