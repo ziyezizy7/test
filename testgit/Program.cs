@@ -8,7 +8,6 @@ namespace testgit
 {
     class Program
     {
-	/// 20150825
         /// <summary>
         /// Add comment
         /// </summary>
