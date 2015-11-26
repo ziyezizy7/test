@@ -1,5 +1,5 @@
 |||
-|-|-|
+|----|-----|
 |**Test ID**|BVT_AppInstanceId|
 |**Description**|Check when client fails over to a new client, the previous opened file can be reopened with the same AppInstanceId. |
 |**Prerequisites**||
